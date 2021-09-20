@@ -1,0 +1,11 @@
+#Store metainfo properties
+#Wed Sep 15 13:15:03 UTC 2021
+BundleSymbolicName=Accessing_Headers_in_XSLT
+NOTIFY_FOR_UPDATE=true
+OriginModifiedDate=1563282016606
+OriginBundleSymbolicName=Accessing_Headers_in_XSLT
+OriginBundleName=Accessing and setting Header and Property in XSLT
+OriginBundleVersion=1.0.0
+BundleVersion=1.0.0
+description=\ Detailed explanation for this flow can be found at\: Documents --> HowTo- Access and set Header and Property in XSLT Mappings
+AUTO_UPDATABLE=false
